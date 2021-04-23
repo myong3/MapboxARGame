@@ -1,4 +1,5 @@
 # MapboxARGame
+<<<<<<< HEAD
 * 摘要
   * 隨著 Pokemon go 爆紅之後，擴增實境（Augmented Reality, AR）技術漸漸成為炙手可熱的技術，學力至上這款APP是基於地理位置服務(Location-Based Service，LBS 又稱適地性服務、移動定位服務、位置服務)並結合AR所製成的。APP取得使用者位置後，告知使用者輔大校園各個建築的所在位置以及路線導覽，讓使用者能快速了解自己想要前往之目的地的方向。使用者介面(User Interface)上結合AR，使得導覽的內容以更直觀的方式顯示在行動裝置的螢幕上，如此一來能夠避免傳統的地圖導覽時需一一對照地圖才能使用之不便，並且將操作方式簡化方便使用者作操作。開發平台上使用Untiy，並且結合Mapbox-unity-sdk，使得支援Android和iOS系統。
   * 關鍵字：擴增實境、校園導覽、LBS
@@ -71,3 +72,6 @@
 
 
 
+=======
+Using Unity/Mapbox/ARCore to develop Location Based AR Game 
+>>>>>>> d2c3f6532cbf1f6b21e676f61623560072949e84
